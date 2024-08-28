@@ -1,7 +1,3 @@
-Here's a README file for your GitHub repository containing the Transposition Cipher encryption and decryption code:
-
----
-
 # Transposition Cipher Program
 
 ## Overview
@@ -61,18 +57,6 @@ This Python program implements the Transposition Cipher, a method of encryption 
 
 - Python 3.x
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contributing
 
 Contributions are welcome! Please fork this repository and submit a pull request for any enhancements or bug fixes.
-
-## Contact
-
-For any inquiries or feedback, please contact [your-email@example.com].
-
----
-
-You can customize this README with your GitHub username, email, and any other details specific to your project.
