@@ -16,7 +16,7 @@ Welcome to the **Ciphers** repository! This repository contains implementations 
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/Ciphers.git
+    git clone https://github.com/jainiltailor/Ciphers.git
     ```
 
 2. **Navigate to the desired cipher**:
