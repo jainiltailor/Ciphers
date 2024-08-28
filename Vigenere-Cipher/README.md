@@ -19,7 +19,7 @@ This Python program implements the Vigenere Cipher, a method of encryption that 
 1. **Clone the Repository**
    ```
    git clone https://github.com/jainiltailor/Ciphers/Vigenere-Cipher.git
-   cd Vigenere-Cipher
+   cd Ciphers/Vigenere-Cipher
    ```
 
 2. **Prepare the Input File**
