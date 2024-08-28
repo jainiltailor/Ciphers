@@ -20,7 +20,7 @@ This Python program implements the Playfair Cipher for encrypting and decrypting
 1. **Clone the Repository**
    ```
    git clone https://github.com/jainiltailor/Ciphers/Playfair-Cipher.git
-   cd Playfair-Cipher
+   cd Ciphers/Playfair-Cipher
    ```
 
 2. **Prepare the Input File**
