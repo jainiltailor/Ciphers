@@ -19,8 +19,8 @@ This Python program implements the Monoalphabetic Cipher for encrypting and decr
 
 1. **Clone the Repository**
    ```
-   git clone https://github.com/your-username/monoalphabetic-cipher-program.git
-   cd monoalphabetic-cipher-program
+   git clone https://github.com/jainiltailor/Ciphers/Monoalphabetic-Cipher.git
+   cd Ciphers/Monoalphabetic-Cipher
    ```
 
 2. **Prepare the Input File**
