@@ -19,7 +19,7 @@ This Python program implements the Transposition Cipher, a method of encryption 
 1. **Clone the Repository**
    ```
    git clone https://github.com/jainiltailor/Ciphers/Transposition-Cipher.git
-   cd Transposition-Cipher
+   cd Ciphers/Transposition-Cipher
    ```
 
 2. **Prepare the Input File**
