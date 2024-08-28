@@ -20,7 +20,7 @@ This Python program implements the Rail Fence Cipher, a type of transposition ci
 1. **Clone the Repository**
    ```
    git clone https://github.com/jainiltailor/Cipher/Rail-Cipher.git
-   cd Rail-Cipher
+   cd Ciphers/Rail-Cipher
    ```
 
 2. **Prepare the Input File**
