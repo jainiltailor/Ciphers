@@ -20,7 +20,7 @@ This is a simple Python program that implements the Caesar Cipher for text encry
 
 1. **Clone the Repository**
    ```
-   git clone https://github.com/your-username/caesar-cipher-program.git
+   git clone https://github.com/jainiltailor/caesar-cipher-program.git
    cd caesar-cipher-program
    ```
 
