@@ -20,7 +20,7 @@ This Python program implements the Hill Cipher for encrypting and decrypting tex
 1. **Clone the Repository**
    ```
    git clone https://github.com/jainiltailor/Ciphers/Hill-Cipher.git
-   cd Hill-Cipher
+   cd Ciphers/Hill-Cipher
    ```
 
 2. **Prepare the Input File**
