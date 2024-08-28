@@ -19,7 +19,7 @@ This Python program implements the Hill Cipher for encrypting and decrypting tex
 
 1. **Clone the Repository**
    ```
-   git clone https://github.com/your-username/hill-cipher-program.git
+   git clone https://github.com/jainiltailor/hill-cipher-program.git
    cd hill-cipher-program
    ```
 
